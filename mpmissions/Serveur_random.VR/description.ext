@@ -1,0 +1,12 @@
+#include "Dialogs\define.hpp"
+#include "Dialogs\affi_formulaire.hpp"
+#include "Dialogs\formulaire.hpp"
+#include "Config\Config_Video.hpp"
+
+class RscTitles {
+	#include "Dialogs\telecomande.hpp"
+};
+
+class CfgFunctions {
+	#include "fonctionslist.hpp"
+};
