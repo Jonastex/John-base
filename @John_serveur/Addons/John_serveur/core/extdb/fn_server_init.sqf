@@ -1,11 +1,3 @@
-/**
- * @author John life is dev 
- * @email Jonastex#2733
- * @create date 2021-03-02
- * @modify date 2021-03-02
- * @desc [Initialisation d' EXTDB]
-*/
-
 diag_log "Reception fichier EXTDB3";
 if ( isNil {uiNamespace getVariable "extDB_SQL_CUSTOM_ID"})
 	then {
