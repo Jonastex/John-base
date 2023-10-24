@@ -1,12 +1,3 @@
-/*
- * Filename: d:\Serveur_random\steamapps\common\Arma 3 Server\mpmissions\Serveur_random.VR\Dialogs\affi_formulaire.hpp
- * Path: d:\Serveur_random\steamapps\common\Arma 3 Server\mpmissions\Serveur_random.VR\Dialogs
- * Created Date: Tuesday, February 22nd 2022, 8:49:45 pm
- * Author: Jonastex
- * 
- * Copyright (c) 2022 Your Company
- */
-
 class affi_formulaire {
 	idd = 072202;
 	name = "affi_formulaire";
