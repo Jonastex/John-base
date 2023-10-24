@@ -1,11 +1,3 @@
-/*
- * Filename: c:\Users\Jonastex\Documents\Arma 3 - Other Profiles\John%20Deep\missions\Serveur_frame.VR\Dialogs\formulaire.hpp
- * Path: c:\Users\Jonastex\Documents\Arma 3 - Other Profiles\John%20Deep\missions\Serveur_frame.VR\Dialogs
- * Created Date: Tuesday, February 22nd 2022, 8:28:04 pm
- * Author: Jonastex
- * 
- * Copyright (c) 2022 John
- */
 class formulaire {
 	idd = 2202;
 	name = "formulaire";
