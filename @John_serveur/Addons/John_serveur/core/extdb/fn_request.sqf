@@ -1,11 +1,3 @@
-/**
- * @author John life is dev 
- * @email Jonastex#2733
- * @create date 2021-03-02
- * @modify date 2021-03-02
- * @desc [Requete base de donner]
- */
-//params ["_mode", "_req"];
 params ["_req", "_mode"];
 _key = "extDB3" callExtension format["%1:%2:%3",_mode, (call extDB_SQL_CUSTOM_ID), _req];
 
