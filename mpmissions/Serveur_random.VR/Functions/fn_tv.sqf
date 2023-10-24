@@ -1,12 +1,3 @@
-/*
- * Filename: d:\Serveur_random\steamapps\common\Arma 3 Server\mpmissions\Serveur_random.VR\Functions\fn_tv.sqf
- * Path: d:\Serveur_random\steamapps\common\Arma 3 Server\mpmissions\Serveur_random.VR\Functions
- * Created Date: Tuesday, February 22nd 2022, 8:09:42 pm
- * Author: Jonastex
- * 
- * Copyright (c) 2022 John
- red #(rgb,8,8,3)color(1,0,0,1)
- */
 switch ((param [0])) do {
 	case 0 : {
 		500 cutRsc["telecomande","PLAIN"];
